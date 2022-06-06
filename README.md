@@ -2,7 +2,7 @@
 
 ## As part of my JavaScript learning path i decided to test my skills on a book list project
 
-### This a quick mini-project that took me a day to create
+### This a quick mini-project that took me a couple of hours to create
 
 ## Technologies used
 
